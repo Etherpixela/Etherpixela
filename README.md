@@ -1,0 +1,2 @@
+- Hello! Welcome to the Etherpixela GitHub Page. Etherpixela was founded mid 2023, and is based in Ticino, Switzerland. Etherpixela is run by one person.
+- Etherpixela will produce many games in the yeears to come!
